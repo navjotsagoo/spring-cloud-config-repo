@@ -1,0 +1,6 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: https://eureka-939d5127-fb52-4066-a6ae-e877ebb996d2.cfapps.pez.pivotal.io
+    healthcheck:
+      enabled: true
